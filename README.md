@@ -21,3 +21,4 @@ Using this technique, users are able to effectively use the custom Chatbot syste
 Known Issues: 
 - Currently only working on windows. 
 - Conflicting Hotkeys will find issues getting both commands to come through.
+- Ability to hotkey the Escape key into an action. (this slightly complicates things. Best avoid it.)
