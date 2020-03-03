@@ -26,4 +26,5 @@ Recently Added:
   
 Known Issues: 
 - Currently only working on windows. 
+- Cannot interpret numpad keys. ("NUM_4" for example will not do anything I found. IT hooks properly and blocks the key, but also doesn't do anything while pressed. Will investigate.)
 - Conflicting Hotkeys will find issues getting both commands to come through.
