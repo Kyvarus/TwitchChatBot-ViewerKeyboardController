@@ -20,6 +20,8 @@ Predefined Actions for the PS1, (up, left, right, down, upleft, upright, downlef
   
 The way this app behaves is similar to that of a game controller. When you start the application in the main menu; your normal keyboard functions will be suppressed. But at any point in time you can quit out of the "gamepad mode" by hitting the "ESC" key.
 
+Multi-Layout Support, with the ability to quickswap Layouts via hotkey! You can bind a specific layout to a hotkey and swap between it in the Controller Pause state. This will allow you to have an unlimited amount of phrases on a keyboard.
+
 Using this technique, users are able to effectively use the custom Chatbot system and jump in and out of gameplay cleanly.
   
 Recently Added:
