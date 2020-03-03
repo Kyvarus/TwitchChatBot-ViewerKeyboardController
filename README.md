@@ -16,6 +16,8 @@ There is two types of string-commands in this app, one is a duration based Butto
 The second type is a simple Keypush to send a string of text. (Pushed"hotkey")---->(Spits out "![command]")
   Both the Hotkey and the command argument are configurable when inside the app.
   
+Predefined Actions for the PS1, (up, left, right, down, upleft, upright, downleft, downright) are able to produce "dash" commands by being pressed in caps-lock. This will send "!<direction> <duration> dash" and cause your character to press the sprint command while inputting the direction. 
+  
 The way this app behaves is similar to that of a game controller. When you start the application in the main menu; your normal keyboard functions will be suppressed. But at any point in time you can quit out of the "gamepad mode" by hitting the "ESC" key.
 
 Using this technique, users are able to effectively use the custom Chatbot system and jump in and out of gameplay cleanly.
