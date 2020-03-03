@@ -18,6 +18,12 @@ The way this app behaves is similar to that of a game controller. When you start
 
 Using this technique, users are able to effectively use the custom Chatbot system and jump in and out of gameplay cleanly.
   
+Recently Added:
+- The ability to set duration output strings. 
+- The ability to unset a specific duration output string without deleting the action. (You set the keybind to "NONE".)
+- The ability to list Binds, Manuvers and combos from the settings menu.
+  
+  
 Known Issues: 
 - Currently only working on windows. 
 - Conflicting Hotkeys will find issues getting both commands to come through.
