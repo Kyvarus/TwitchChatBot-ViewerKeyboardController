@@ -1,6 +1,8 @@
 # TwitchChatBot-ViewerKeyboardController
 Made to serve a custom twitch chatbot; mostly involving "Twitch Plays". This app can send customizable strings from any set key on your keyboard to your active textbox. These custom strings need to meet up with the channel bot's intended commands or they will be useless. 
 
+"This program can be opened easily and does not require any prior setup."
+
 The purpose of this application is simply to convert the duration of a key press from a user, into a string that contains the "Intended Context" and the Duration values.
 Intended Context can vary largely, but generally this script will put out "!" before every command phrase.
 
